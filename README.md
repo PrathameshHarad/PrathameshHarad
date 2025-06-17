@@ -1,6 +1,6 @@
 <!-- Banner or Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Hi%20I'm%20Prathamesh%20Harad👋&fontColor=ffffff&fontSize=40&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Hi%2C%20I%27m%20Prathamesh%20Harad%20👋&fontColor=ffffff&fontSize=40&animation=fadeIn" alt="header" />
 </p>
 
 <!-- Introduction -->
@@ -14,7 +14,7 @@
 <!-- About Me -->
 ### 👨‍💻 About Me
 - 🔭 I’m currently working as an **SDET** at **Solera**  
-- 🌱 Skilled in **Java, C#, Selenium, TestNG, NUnit, BDD, Jenkins**  
+- 🌱 Skilled in **Java, C#, Selenium, TestNG, NUnit, Cucumber, Jenkins, SQL**  
 - 💬 Ask me about **Automation, Test Frameworks, and QA Best Practices**  
 - 💡 Always learning new tools and tech in the automation space  
 - ⚡ Fun Fact: I love debugging and breaking the app before users do!  
