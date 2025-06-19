@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/PRIYAGRAJ2610/PRIYAGRAJ2610/blob/main/banner.gif?raw=true" alt="Cool Banner" width="100%" />
+  <img src="https://github.com/PrathameshHarad/PrathameshHarad/blob/main/banner.gif?raw=true" alt="Cool Banner" width="100%" />
 </p>
 
 ## 👨‍💻 About Me
