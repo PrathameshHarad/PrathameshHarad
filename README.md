@@ -50,7 +50,7 @@ through automated testing solutions.
      <a href="https://leetcode.com/u/pharad37/" target="_blank" style="margin: 0 15px;">
       <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/leetcode-xp0gbbxtpmnkjk8uhdrmhg.png/leetcode-jj5yfhjdsmrt5j9xb3sec.png?_a=DAJFJtWIZAAC" alt="LeetCode" width="50" height="50" style="background-color: white; border-radius: 10px; padding: 5px; box-shadow: 0 0 5px #FFA500;" />
     </a>
-    <a href="https://github.com/Pratham421421" target="_blank" style="margin: 0 15px;">
+    <a href="https://github.com/PrathameshHarad" target="_blank" style="margin: 0 15px;">
       <img src="https://cdn1.iconfinder.com/data/icons/bootstrap-fill-vol-2/16/github-1024.png" alt="GitHub" width="50" height="50" style="background-color: white; border-radius: 10px; padding: 5px; box-shadow: 0 0 5px #333;" />
     </a>
   </p>
