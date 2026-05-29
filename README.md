@@ -3,9 +3,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=900&lines=Hi+I'm+Prathamesh+Harad+👋;Software+Test+Automation+Engineer;Framework+Builder+%7C+QA+Automation;UI+%26+API+Automation+Expert;Automation+First+•+Quality+Focused" />
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Prathamesh%20Harad&fontColor=ffffff&color=0:00F5D4,50:64FFDA,100:00BBF9&fontSize=42&animation=blinking"/>
 
 </div>
 
